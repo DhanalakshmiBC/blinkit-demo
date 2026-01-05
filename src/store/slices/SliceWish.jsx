@@ -94,7 +94,7 @@ const cartSlice = createSlice({
       }
     },
 
-    clearCart: (state) => {
+    clearCart: () => {
       return []; // Simply return empty array to clear cart
     },
   },

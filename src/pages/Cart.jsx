@@ -6,7 +6,6 @@ import {
   deleteCartData,
   incrementQuantity,
   decrementQuantity,
-  clearCart,
 } from '../store/slices/SliceWish';
 
 const formatPrice = (value) => {
