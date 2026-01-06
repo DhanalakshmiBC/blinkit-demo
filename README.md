@@ -1,4 +1,4 @@
-# Blinkit Clone
+# Blinkit Demo
 
 A responsive Blinkit clone built using **React** and **Tailwind CSS**.  
 This project replicates the core UI and layout of Blinkit’s homepage, featuring reusable components and category-based product sections.
@@ -24,5 +24,3 @@ This project replicates the core UI and layout of Blinkit’s homepage, featurin
     npm run dev
     ```
    
-## 📄 License
-This project is part of the React Projects for Beginners repository for learning and open-source contribution.
